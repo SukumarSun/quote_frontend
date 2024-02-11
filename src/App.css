@@ -1,0 +1,10 @@
+
+.each{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+/* .outside{
+  background-color: blue;
+} */
